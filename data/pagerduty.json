@@ -1,0 +1,7 @@
+[
+  {
+    "incident_title": "Critical API Failure",
+    "severity": "critical",
+    "status": "triggered"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "pr_id": 42,
+    "title": "Auth middleware update",
+    "merged_at": "2026-05-25T10:00:00"
+  },
+  {
+    "pr_id": 43,
+    "title": "Payment API optimization",
+    "merged_at": "2026-05-25T09:30:00"
+  }
+]

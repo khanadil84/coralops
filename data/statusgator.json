@@ -1,0 +1,6 @@
+[
+  {
+    "service": "api-gateway",
+    "status": "degraded"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "service": "auth-service",
+    "metric_alert": "Authentication latency spike",
+    "severity": "critical",
+    "timestamp": "2026-05-25T14:32:00Z"
+  }
+]
