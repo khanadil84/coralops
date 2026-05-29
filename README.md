@@ -168,17 +168,19 @@ The platform includes:
 
 ## Dashboard Overview
 
+![Dashboard](screenshots/dashboard.png)
+
 ---
 
 ## Retrieval Graph
+
+![Retrieval Graph](screenshots/retrieval-graph.png)
 
 ---
 
 ## Coral SQL Console
 
----
-
-##
+![Coral Console](screenshots/coral-console.png)
 
 
 ---
