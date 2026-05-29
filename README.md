@@ -166,7 +166,20 @@ The platform includes:
 
 # 📸 Screenshots
 
-Add deployed dashboard screenshots here.
+## Dashboard Overview
+
+---
+
+## Retrieval Graph
+
+---
+
+## Coral SQL Console
+
+---
+
+##
+
 
 ---
 
